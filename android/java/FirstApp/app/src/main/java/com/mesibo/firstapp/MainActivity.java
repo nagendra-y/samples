@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements Mesibo.Connection
 
     //Refer to the Get-Started guide to create two users and their access tokens
     DemoUser mUser1 = new DemoUser("xyz", "User-1", "123");
-    DemoUser mUser2 = new DemoUser("pqr", "User-1", "456");
+    DemoUser mUser2 = new DemoUser("pqr", "User-2", "456");
 
     DemoUser mRemoteUser;
     Mesibo.UserProfile mProfile;
